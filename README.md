@@ -1,20 +1,63 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🍽️ DineEase
 
-# Run and deploy your AI Studio app
+A premium restaurant reservation website designed for fine-dining restaurants, boutique cafés, and luxury hospitality brands. DineEase combines elegant design, immersive storytelling, and seamless table booking to create a world-class dining experience.
 
-This contains everything you need to run your app locally.
+## ✨ Features
 
-View your app in AI Studio: https://ai.studio/apps/860f16b0-1aee-45da-b330-15dba351f61f
+- Luxury restaurant landing page
+- Interactive food menu
+- Featured signature dishes
+- Chef's specials showcase
+- Restaurant gallery
+- Customer reviews & ratings
+- Reservation booking interface
+- Responsive design for all devices
+- Smooth animations and micro-interactions
+- Modern hospitality-inspired UI
 
-## Run Locally
+## 🎨 Design System
 
-**Prerequisites:**  Node.js
+- Warm Ivory (#FAF8F5)
+- Soft Beige (#F3EEE7)
+- Rich Charcoal (#2D2D2D)
+- Champagne Gold (#C8A96A)
+- Sage Green (#8FA68E)
+- Deep Olive (#556B4F)
 
+### Style Highlights
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- Modern luxury aesthetic
+- Glassmorphism elements
+- Soft shadows and gradients
+- Rounded corners
+- Elegant typography
+- Spacious layouts
+- Premium user experience
+
+## 📱 Sections
+
+- Hero Section
+- Featured Signature Dishes
+- Interactive Menu
+- Chef's Specials
+- Restaurant Gallery
+- Customer Reviews
+- Reservation Preview
+- About Restaurant
+- Contact & Footer
+
+## 🚀 Tech Stack
+
+- React / Next.js
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Responsive Design
+
+## 🎯 Objective
+
+To create an elegant, conversion-focused restaurant reservation experience that reflects the quality and atmosphere of premium dining establishments.
+
+## 📄 License
+
+MIT License
