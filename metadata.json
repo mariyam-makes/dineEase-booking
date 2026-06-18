@@ -1,0 +1,6 @@
+{
+  "name": "DineEase",
+  "description": "A premium restaurant reservation platform focusing on elegance, storytelling, and reservation conversion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
